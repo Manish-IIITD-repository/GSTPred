@@ -2,7 +2,7 @@
 
 Welcome to the official documentation for **GSTPred**, a specialized computational tool developed for the prediction and functional annotation of Glutathione S-transferase (GST) proteins[cite: 1900]. [cite_start]GSTs are a ubiquitous enzyme superfamily essential for detoxification, stress survival, and drug resistance in both prokaryotes and eukaryotes.
 
-**Web Server:** [http://www.imtech.res.in/raghava/gstpred/](http://www.imtech.res.in/raghava/gstpred/) 
+**Web Server:** (https://webs.iiitd.edu.in/raghava/gstpred/) 
 
 ---
 
@@ -10,7 +10,7 @@ Welcome to the official documentation for **GSTPred**, a specialized computation
 
 Nitish Kumar Mishra, Manish Kumar and G.P.S. Raghava (2007).
 **Support Vector Machine Based Prediction of Glutathione S-Transferase Proteins.**
-*Protein & Peptide Letters*, 14(6), 575-580.
+*Protein & Peptide Letters*, 14(6), 575-580.10.2174/092986607780990046
 
 ---
 
