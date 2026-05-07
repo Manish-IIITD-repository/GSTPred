@@ -10,7 +10,7 @@ Welcome to the official documentation for **GSTPred**, a specialized computation
 
 Nitish Kumar Mishra, Manish Kumar and G.P.S. Raghava (2007).
 **Support Vector Machine Based Prediction of Glutathione S-Transferase Proteins.**
-*Protein & Peptide Letters*, 14(6), 575-580.10.2174/092986607780990046
+*Protein & Peptide Letters*, 14(6),(https://doi.org/10.2174/092986607780990046)
 
 ---
 
