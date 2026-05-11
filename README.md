@@ -12,6 +12,8 @@ Nitish Kumar Mishra, Manish Kumar and G.P.S. Raghava (2007).
 **Support Vector Machine Based Prediction of Glutathione S-Transferase Proteins.**
 *Protein & Peptide Letters*, 14(6),(https://doi.org/10.2174/092986607780990046)
 
+Zenodo:-(https://doi.org/10.5281/zenodo.20069377)
+
 ---
 
 ## About the Platform
